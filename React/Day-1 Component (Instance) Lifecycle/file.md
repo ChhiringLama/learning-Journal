@@ -1,1 +1,0 @@
-Component instance life cycle
