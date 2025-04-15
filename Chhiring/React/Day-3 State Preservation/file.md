@@ -1,0 +1,1 @@
+Understood how state preservation works in react. Concepts like rules of diffing.
