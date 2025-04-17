@@ -7,7 +7,8 @@ Welcome to our joint learning journal! This repository is dedicated to keeping t
 ### React
 1. Component Lifecycle  
 2. State vs Ref  
-
+3. State Preservation
+4. Custom Hooks
 
 ### Sonam
 
