@@ -9,6 +9,7 @@ Welcome to our joint learning journal! This repository is dedicated to keeping t
 2. State vs Ref  
 3. State Preservation
 4. Custom Hooks
+5. Class Based Components
 
 ### Sonam
 
