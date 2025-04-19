@@ -1,0 +1,1 @@
+A short introduction on what useReducer is and how a state can be a complex data structure as well like an object.
