@@ -10,6 +10,10 @@ Welcome to our joint learning journal! This repository is dedicated to keeping t
 3. State Preservation
 4. Custom Hooks
 5. Class Based Components
+6. useReducer
+7. Deconstructuring Complex State, Handling Erroor, Loading Component
+8. Quiz App
+9. Quiz App Revision
 
 ### Sonam
 
