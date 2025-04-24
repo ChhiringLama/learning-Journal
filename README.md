@@ -15,6 +15,9 @@ Welcome to our joint learning journal! This repository is dedicated to keeping t
 8. Quiz App
 9. Quiz App Revision
 
+### Node
+1. Revision on Ajax and API
+
 ### Sonam
 
 ### Python
